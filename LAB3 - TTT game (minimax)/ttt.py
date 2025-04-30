@@ -95,7 +95,7 @@ def build_player(player_type: str, player_name: str, depth_limit):
 
 
 if __name__ == "__main__":
-    board_size = 4
+    board_size = 3
     depth_limit = 9
     player1_sign =  "o"
     player2_sign =  "x"
